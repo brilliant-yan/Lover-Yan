@@ -64,4 +64,4 @@ MIT
 
 ---
 
-Designed & Maintained by [Luzhenhua](https://luzhenhua.cn/)
+Designed & Maintained by [DongJiaCaiZi].
